@@ -11,12 +11,14 @@ public class if_statement {
 //			System.out.println("person is eligible !");
 //		}
 		
-		int n=12;
+//		int n=12;
+//		
+//		if(n%2==0)
+//		{
+//			System.out.println("number is even ");
+//		}
 		
-		if(n%2==0)
-		{
-			System.out.println("number is even ");
-		}
+		
 		
 
 	}
